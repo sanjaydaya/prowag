@@ -1,0 +1,36 @@
+/* Custom CSS styles for your site */
+.left-toolbar {
+  width: 200px;
+  height: 100vh;
+  position: fixed;
+}
+
+.main-content {
+  margin-left: 220px;
+}
+
+.banner,
+.features,
+.content,
+.testimonials,
+.faq,
+.blog,
+.contact,
+.footer {
+  margin: 20px 0;
+  padding: 20px;
+}
+
+.banner h1,
+.features h2,
+.content h2,
+.testimonials h2,
+.faq h2,
+.blog h2,
+.contact h2 {
+  margin-bottom: 20px;
+}
+
+.testimonial img {
+  max-width: 80px;
+}
